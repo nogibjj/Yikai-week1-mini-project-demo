@@ -1,5 +1,9 @@
 # rust-new-project-template
-A good starting point for a new Rust project
+Here is a mini command line tool proejct in Rust to check if two file contents are same. 
+
+## Usage
+-- check --file1 "file.txt" "file1.txt"
+output will be true or false
 
 ## References
 
